@@ -13,6 +13,14 @@
          <height>128</height>
       </image>
       <item>
+         <title>Noticia asdfsd1</title>
+         <link>http://miservidor.com/noticia1.htm</link>
+         <pubDate>Mon, 22 Mar 2024 00:00:00 GMT</pubDate>
+         <description> 
+            <img src="https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"/>
+            <p>This is a test2</p>
+          </description>
+      </item>
          <title>Noticia 1</title>
          <link>http://miservidor.com/noticia1.htm</link>
          <pubDate>Mon, 22 Mar 2024 00:00:00 GMT</pubDate>
