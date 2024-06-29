@@ -23,12 +23,25 @@
       <item>
          <title>Hash Cat Finish</title>
          <link>http://miservidor.com/noticia1.htm</link>
-         <pubDate>Mon, 29 Mar 2024 00:00:00 GMT</pubDate>
+         <!-- <pubDate>Mon, 29 Mar 2024 00:00:00 GMT</pubDate> -->
+         <guid>asdf1</guid>
          <description> 
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorvO5pz7v5jzu0ePGRU7IBOV10ZKX3LjmJ3jHOT45f4JTnlPLUlyEUXLeyXgQhZklwb8&usqp=CAU"/>
             <p>Ha finalizado el crackeo del hash</p>
             <p><b>Hash</b>: askdfhakjshdfughihjahsjfdasf</p>
             <p><b>Password</b>: asdf1234</p>
+          </description>
+      </item>
+      <item>
+         <title>Hash Cat Finish</title>
+         <link>http://miservidor.com/noticia1.htm</link>
+         <!-- <pubDate>Mon, 29 Mar 2024 00:00:00 GMT</pubDate> -->
+         <guid>asdf2</guid>
+         <description> 
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTorvO5pz7v5jzu0ePGRU7IBOV10ZKX3LjmJ3jHOT45f4JTnlPLUlyEUXLeyXgQhZklwb8&usqp=CAU"/>
+            <p>Ha finalizado el crackeo del hash</p>
+            <p><b>Hash</b>: askdfhakjshdfughihjahsjfdasf</p>
+            <p><b>Password</b>: test1234</p>
           </description>
       </item>
    </channel>
