@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+   <channel>
+      <title>Gitfy</title>
+      <link>http://miservidor.com</link>
+      <description>RSS desde git</description>
+      <language>es-ES</language>
+      <image>
+         <title>Gitfy</title>
+         <url>http://miservidor.com/milogo.gif</url>
+         <link>http://miservidor.com/</link>
+         <width>128</width>
+         <height>128</height>
+      </image>
+      <item>
+         <title>Noticia 1</title>
+         <link>http://miservidor.com/noticia1.htm</link>
+         <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+         <description> Descripci&#243;n de la noticia 1 </description>
+      </item>
+      <item>
+         <title>Noticia 2</title>
+         <link>http:/miservidor.com/contenidos.asp?
+nivel=18&amp;cont=567</link>
+         <pubDate>Mon, 21 Mar 2022 01:00:00 GMT</pubDate>
+         <description>Descripcion noticia dos</description>
+      </item>
+   </channel>
+</rss>
