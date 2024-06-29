@@ -7,7 +7,7 @@
       <language>es-ES</language>
       <image>
          <title>Gitfy</title>
-         <url>http://miservidor.com/milogo.gif</url>
+         <url>https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg</url>
          <link>http://miservidor.com/</link>
          <width>128</width>
          <height>128</height>
@@ -15,6 +15,12 @@
       <item>
          <title>Noticia 1</title>
          <link>http://miservidor.com/noticia1.htm</link>
+         <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+         <description> Descripci&#243;n de la noticia 1 </description>
+      </item>
+      <item>
+         <title>New now</title>
+         <link>https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg</link>
          <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
          <description> Descripci&#243;n de la noticia 1 </description>
       </item>
